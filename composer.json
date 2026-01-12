@@ -1,0 +1,19 @@
+{
+    "name": "ivan4444444/singleton",
+    "description": "a singleton",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ivan4444444\\Singleton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ivanvilus",
+            "email": "IVilus@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
