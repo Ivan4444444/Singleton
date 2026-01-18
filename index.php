@@ -1,9 +1,7 @@
 <?php
 
-use ivan4444444\Singleton\DBConnWrong;
-use ivan4444444\uuid\uuid;
-
-use ivan4444444\Singleton\DBConnection;
+use Ivan4444444\Singleton\DBConnWrong;
+use Ivan4444444\Singleton\DBConnection;
 
 require 'vendor/autoload.php';
 

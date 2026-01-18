@@ -1,8 +1,9 @@
 <?php
 
-namespace ivan4444444\Singleton;
+namespace Ivan4444444\Singleton;
 
-use Ramsey\uuid\Uuid;
+use Ramsey\Uuid\Uuid;
+
 class DBConnWrong
 {
 

@@ -6,5 +6,7 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Ramsey\\Uuid\\' => array($vendorDir . '/ramsey/uuid/src'),
     'Ivan4444444\\Singleton\\' => array($baseDir . '/src'),
+    'Brick\\Math\\' => array($vendorDir . '/brick/math/src'),
 );
